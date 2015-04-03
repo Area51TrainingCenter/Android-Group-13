@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!--Estos son los elementos del menú que cargaremos en el MainActivity.-->
+    <!--El atributo "orderInCategory" se utiliza para ordenar los elementos, si no lo tiene se ordenan en el orden de declaración.-->
+    <!--El atributo "showAsAction" sirve para indicar si el menú aparecerá o no en el action bar como un botón.-->
+    <item
+        android:id="@+id/menu_main_item_example_1"
+        android:title="@string/menu_button_1"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_main_item_example_2"
+        android:title="@string/menu_button_2"
+        android:showAsAction="ifRoom" />
+
+</menu>

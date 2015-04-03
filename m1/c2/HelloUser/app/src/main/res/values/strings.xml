@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello User!</string>
+    <string name="menu_button_1">Button 1</string>
+    <string name="menu_button_2">Button 2</string>
+    <string name="menu_example_1">Menu button 1 clicked!</string>
+    <string name="menu_example_2">Menu button 2 clicked!</string>
+    <string name="welcome_text">Hello user!</string>
+    <string name="send">Send</string>
+    <string name="hello_name">Welcome %s</string>
+
+</resources>
