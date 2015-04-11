@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Broadcast Receiver Test</string>
+    <string name="hello_world">Hola, en esta actividad podrás disparar un broadcast y este será capturado por el Broadcast Receiver de la aplicación y mostrado en el Logcat. Para disparar el broadcast, revisa el menú y selecciona la opción "Disparar Broadcast".</string>
+    <string name="fire_broadcast">Disparar Broadcast</string>
+
+</resources>
