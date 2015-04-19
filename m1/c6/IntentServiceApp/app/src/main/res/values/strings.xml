@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentServiceApp</string>
+    <string name="instructions">En esta aplicación utilizaremos un IntentService que se comunicará con MainActivity mediante broadcast.</string>
+    <string name="start_intent_service">Iniciar IntentService</string>
+    <string name="intent_service_started">Ejecutando IntentService</string>
+    <string name="intent_service_finished">Ejecución finalizada</string>
+
+</resources>
