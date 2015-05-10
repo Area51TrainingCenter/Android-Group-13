@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThreadsApplication</string>
+    <string name="instructions">Al presionar un botón, se ejecutará una tarea larga utilizando diferentes métodos.</string>
+    <string name="execute_main_thread">Ejecutar (UI Thread)</string>
+    <string name="execute_worker_thread">Ejecutar (Worker Thread)</string>
+    <string name="execute_asynctask">Ejecutar (AsyncTask)</string>
+    <string name="progress_title">Espera</string>
+    <string name="progress_message">Un momento&#8230;</string>
+
+</resources>

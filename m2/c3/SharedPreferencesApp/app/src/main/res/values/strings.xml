@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="welcome_text">Bienvenido: $s</string>
+    <string name="instructions">Ingresa tu nombre y presiona el botón para registrarlo.</string>
+    <string name="last_visitor">Último visitante: %1$s</string>
+    <string name="save_visitor">Registrar visitante</string>
+    <string name="first_visitor">¡Eres el primer visitante!</string>
+    <string name="name">Nombre</string>
+
+</resources>
