@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccelerometerApp</string>
+    <string name="accelerometer_x_axis">X: %1$s</string>
+    <string name="accelerometer_y_axis">Y: %1$s</string>
+    <string name="accelerometer_z_axis">Z: %1$s</string>
+    <string name="start_accelerometer">Activar</string>
+    <string name="stop_accelerometer">Desactivar</string>
+
+</resources>

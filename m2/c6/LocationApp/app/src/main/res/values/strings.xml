@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationApp</string>
+    <string name="provider">Proveedor: %1$s</string>
+    <string name="latitude">Latitud: %1$s</string>
+    <string name="longitude">Longitud: %1$s</string>
+    <string name="get_location">Obtener ubicación</string>
+
+</resources>
