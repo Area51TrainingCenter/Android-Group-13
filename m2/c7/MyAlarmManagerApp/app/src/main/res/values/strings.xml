@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAlarmManagerApp</string>
+    <string name="instructions">Ingresa el tiempo en segundos para que se dispare la alarma.</string>
+    <string name="set_alarm">Establecer Alarma</string>
+    <string name="time_seconds">Tiempo en segundos</string>
+    <string name="intent_received">Intent recibido</string>
+
+</resources>
