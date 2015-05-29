@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteContentProviderApp</string>
+    <string name="update_notes">Actualizar lista</string>
+    <string name="delete_notes">Eliminar notas</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="note_id">ID</string>
+    <string name="note_title">Título</string>
+    <string name="note_content">Contenido</string>
+
+</resources>
