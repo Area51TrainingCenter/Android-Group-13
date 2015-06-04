@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReverseGeocoderRestApp</string>
+    <string name="instructions">Ingresa los valores para obtener la dirección</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="get_address">Obtener dirección</string>
+    <string name="invalid_server_response">Respuesta del servidor inválida</string>
+    <string name="network_error">Error de conexión</string>
+</resources>
