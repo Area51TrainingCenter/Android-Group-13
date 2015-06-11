@@ -1,0 +1,17 @@
+//Llave de depuración
+keystore name: debug.keystore
+keystore pass: android
+key alias: androiddebugkey
+key pass: android
+
+//Llave de producción
+keystore name: production.keystore
+keystore pass: production_key
+key alias: googlemapsproject
+key pass: googlemapsproject
+
+Ejemplo para obtener SHA-1 con la herramienta Keytool: C:\Program Files (x86)\Java\jre7\bin\keytool.exe -list -v -keystore c:\Users\INTRUCTOR\Desktop\production_key.jks
+
+Recuerden que deben poner tanto la llave de producción como la llave de depuración (Android Studio firma automáticamente la aplicación cuando ejecutan la aplicación).
+
+La llave de depuración se encuentra usualmente en la ruta "C:\Users\%USER%\.android\debug.keystore" y su contraseña en "android".

@@ -1,0 +1,2 @@
+Consola de APIs de Google: https://console.developers.google.com
+Guía básica: https://developers.google.com/maps/documentation/android/start

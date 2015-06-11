@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Maps Project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- API KEYS -->
+    <string name="google_api_key" translatable="false">AIzaSyColgUN8PszpDh6j8HXhtAVkw5g-bcLbYU</string>
+</resources>
