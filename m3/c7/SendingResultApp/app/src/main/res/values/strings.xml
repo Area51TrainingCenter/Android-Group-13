@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Obteniendo una respuesta de otra actividad</string>
+
+    <string name="send_result">Enviar resultado</string>
+    <string name="show_mock_login">Mostrar Login simulado</string>
+    <string name="result_cancelled">Cancelado</string>
+    <string name="username">Usuario: %1$s</string>
+    <string name="password">Contraseña: %1$s</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+</resources>

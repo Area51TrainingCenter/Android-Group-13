@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Audio Recorder</string>
+
+    <string name="status">Estado: %1$s</string>
+    <string name="stopped">Detenido</string>
+    <string name="recording">Grabando&#8230;</string>
+    <string name="start_recording">Iniciar grabación</string>
+    <string name="stop_recording">Detener grabación</string>
+</resources>

@@ -1,6 +1,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
-    <item android:id="@+id/action_settings" android:title="@string/action_settings"
-        android:orderInCategory="100" app:showAsAction="never" />
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/main_map_normal"
+        android:title="@string/map_normal"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/main_map_satellite"
+        android:title="@string/map_satellite"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/main_map_hybrid"
+        android:title="@string/map_hybrid"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/main_map_terrain"
+        android:title="@string/map_terrain"
+        app:showAsAction="ifRoom|withText" />
 </menu>

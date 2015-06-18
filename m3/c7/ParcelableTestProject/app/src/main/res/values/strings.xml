@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcelable Test Project</string>
+
+    <string name="preview_event">Mostrar evento</string>
+</resources>
