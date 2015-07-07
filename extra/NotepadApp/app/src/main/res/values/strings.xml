@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Libreta de notas</string>
+
+    <string name="query_notes">Actualizar lista</string>
+    <string name="insert_note">Agregar nota</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="update_note">Modificar nota</string>
+    <string name="clear_list">Vaciar listado</string>
+    <string name="warning">¡Cuidado!</string>
+    <string name="clear_list_warning">Esta operación eliminará todas las notas ¿Deseas continuar?</string>
+    <string name="note_title">Título</string>
+    <string name="note_content">Contenido</string>
+
+</resources>
